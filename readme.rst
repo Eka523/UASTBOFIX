@@ -1,3 +1,3 @@
-Nama		: Wirahandy Ekavanda <br>
-Prodi		: TIF20B <br>
+Nama		: Wirahandy Ekavanda 
+Prodi		: TIF20B
 NIM			: 23420007
